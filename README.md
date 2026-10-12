@@ -12,3 +12,7 @@ Third-year Computer Science student at the University of Geneva (previously EPFL
 | [GlyConnect enrichment](https://github.com/layalslh/glyconnect-protein-extraction) | Python pipeline that enriches the GlyConnect database with 3D glycoprotein structures through the Re-Glyco API (UniGe course project, spring 2026) |Team project (UniGe course, three students); see the repo |
 
 Most of these are team projects. Each README says exactly what my part was and where AI assistance was used.
+
+### Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/layal-saleh-a3583b256/)
