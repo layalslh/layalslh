@@ -1,6 +1,6 @@
 ## Hi, I'm Layal 👋
 
-Third-year Computer Science student at the University of Geneva (previously EPFL). I'm building developer and founder skills through hackathons and team projects, and working towards projects that are fully my own.
+Third-year Computer Science student at the University of Geneva. I'm building developer and maker skills through hackathons and team projects, and working towards projects that are fully my own.
 
 ### What I've worked on
 
@@ -15,4 +15,4 @@ Most of these are team projects. Each README says exactly what my part was and w
 
 ### Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/layal-saleh-a3583b256/)
+[LinkedIn](https://www.linkedin.com/in/layal-saleh)
